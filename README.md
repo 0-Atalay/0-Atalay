@@ -5,9 +5,11 @@
 - SOSYAL MEDYA HESAPLARIM
 - İnstagram hesabim: https://instagram.com/uffuks?utm_medium=copy_link
 - Telegram hesabım : https://t.me/HzAleph
+- Diğer hesaplarım bakımdadır düzenlenip eklenecektir.
+
 - Telegramda sahip olduğum kanalları görmek için beklemede kalın.
 - Burası bir bot reposudur.
-- Eklemeler olacak beklemede kalın.
+- Beklemede kalın herşey olacak.
 - Sadece yükleniyor...
 <!---
 0-Atalay/0-Atalay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
