@@ -1,6 +1,6 @@
 - 👋 Merhaba,Ben @0-atalay
 - Telegram için botlar üretmeye çalışıyorum.
-- Telegramdan iletişime geçebilirsin
+- Yardım için telegramdan iletişime geçebilirsin
 
 - SOSYAL MEDYA HESAPLARIM
 - İnstagram hesabim: https://instagram.com/uffuks?utm_medium=copy_link
